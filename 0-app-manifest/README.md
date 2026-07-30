@@ -14,7 +14,7 @@ Ngrok will output the origin it has created for your tunnel, eg https://9a20-38-
 
 
 Please copy the https origin from the Ngrok terminal output and paste it in the ZOOM_REDIRECT_URI value in the .env file
-
+n
 ---
 
 ### Create and configure Marketplace App
@@ -25,7 +25,7 @@ Please copy the https origin from the Ngrok terminal output and paste it in the 
 
 * Select **General app** and click **Create**.
 
-> [!NOTE]
+> [!NOTE]npm install -g n
 > Take note of your app ID in the URL after app creation -- you will need it to later on.
 ---
 
